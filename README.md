@@ -5,6 +5,13 @@ This repository contains the source code of my Master Thesis "Secure &amp; Priva
 
 ``` 
 git clone https://github.com/yasmineantille/secure-authentication-extension
+git submodule init
+```
+
+or 
+
+```
+git clone --recurse-submodules https://github.com/yasmineantille/secure-authentication-extension
 ```
 
 ## Installation
